@@ -1,0 +1,16 @@
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.exe
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.deps.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.runtimeconfig.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.runtimeconfig.dev.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\ref\Algorithm Practice.dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice.pdb
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.csproj.AssemblyReference.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.AssemblyInfoInputs.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.AssemblyInfo.cs
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.csproj.CoreCompileInputs.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\ref\Algorithm Practice.dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.pdb
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice.genruntimeconfig.cache

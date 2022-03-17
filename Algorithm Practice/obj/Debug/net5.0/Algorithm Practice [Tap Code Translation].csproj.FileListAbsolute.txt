@@ -1,0 +1,16 @@
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].exe
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].deps.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].runtimeconfig.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].runtimeconfig.dev.json
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\ref\Algorithm Practice [Tap Code Translation].dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\bin\Debug\net5.0\Algorithm Practice [Tap Code Translation].pdb
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].csproj.AssemblyReference.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].AssemblyInfoInputs.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].AssemblyInfo.cs
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].csproj.CoreCompileInputs.cache
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\ref\Algorithm Practice [Tap Code Translation].dll
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].pdb
+C:\Users\RaphaelIsaac\Desktop\C# sandbox\Algorithm Practice\Algorithm Practice\obj\Debug\net5.0\Algorithm Practice [Tap Code Translation].genruntimeconfig.cache
